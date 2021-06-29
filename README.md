@@ -15,7 +15,7 @@
 
 ## Installation
 
-- visit website at
+- visit website at https://sheltered-fjord-06039.herokuapp.com/
 
 ## Usage
 
